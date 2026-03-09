@@ -1,8 +1,13 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com?center=true&lines=Ciallo～(∠・ω<+)⌒☆&font=Fira+Code&height=32&color=ACEGGECA&duration=1234&pause=4321" alt="Holá~"/>
+
+- Practical open-source project developer.  
+- Majoring in Computer Science and AI.
+
+**[🚀 Previously Used]:**
+
+[![Tech Stack](https://skillicons.dev/icons?i=flutter,dart,androidstudio,python,java,c,cpp,js,vue,git)](https://skillicons.dev)
 
 <!--
-**oniyukai/oniyukai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
